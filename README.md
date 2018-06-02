@@ -1,4 +1,4 @@
-# test
+# test 一些前端js插件的是用说明。
 this is a test project ,my first github project.
 
 moment.js 使用注释：
